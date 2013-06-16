@@ -52,7 +52,7 @@ sub unimport {
 
 #ABSTRACT: Experimental features made easy
 
-=head1 SYNOPSYS
+=head1 SYNOPSIS
 
  use experimental 'lexical_subs', 'smartmatch';
  my sub foo { $_[0] ~~ 1 }
